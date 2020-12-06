@@ -30,3 +30,15 @@
     background-color: #FFF;
     color: #FF7779;
 }
+
+.banner__search {
+    display: flex;
+    flex-direction: column;    
+}
+
+.banner__searchButton {
+    background-color: #FFF !important;
+    font-weight: 800 !important;
+    text-transform: inherit !important;
+    color: #FF7779 !important;
+}
