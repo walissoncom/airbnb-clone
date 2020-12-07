@@ -10,7 +10,9 @@ import './Header.css';
 function Header() {
     return (
         <div className="header">
-            <img className="header__icon" src="https://i.pinimg.com/originals/3c/bf/be/3cbfbe148597341fa56f2f87ade90956.png" alt="Logo" />
+            <div className="header__left">
+                <img className="header__icon" src="https://i.pinimg.com/originals/3c/bf/be/3cbfbe148597341fa56f2f87ade90956.png" alt="Logo" />
+            </div>
 
             <div className="header__center">
                 <input type="text" />

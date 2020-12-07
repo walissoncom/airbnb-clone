@@ -9,10 +9,15 @@
     width: 100%;
 }
 
+.header__left {
+    height: 100px;
+    width: 15vw;
+}
+
 .header__icon {
     object-fit: contain;
     height: 100px;
-    margin-left: 20px;
+    margin-left: 39px;
 }
 
 .header__center {
@@ -38,5 +43,5 @@
     align-items: center;
     justify-content: space-between;
     width: 15vw;
-    margin-right: 80px;
+    margin-right: 40px;
 }
