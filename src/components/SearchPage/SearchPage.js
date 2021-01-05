@@ -10,7 +10,7 @@ function SearchPage() {
     return (
         <div className="searchPage">
             <div className="searchPage__info">
-                <p>62 stays - 26 august to 30 august - 2 guests</p>
+                <p>62 stays - 14 Feb to 20 Feb - 4 guests</p>
                 <h1>Stays nearby</h1>
                 <Button variant="outlined">Cancellation Flexibility</Button>
                 <Button variant="outlined">Type of place</Button>
@@ -38,7 +38,7 @@ function SearchPage() {
                 total="$357 total" />
 
             <SearchResult
-                img="https://www.smartertravel.com/uploads/2017/07/Untitled-design-8.jpg"
+                img="https://images.unsplash.com/photo-1554995207-c18c203602cb?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=2250&q=80"
                 location="Private room in center of Sydney"
                 title="Sydney Studio Apartments"
                 description="4 guest · 4 bedroom · 4 bed · 2 bathrooms · Free parking · Washing Machine"
